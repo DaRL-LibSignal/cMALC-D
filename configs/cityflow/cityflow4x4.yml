@@ -1,0 +1,7 @@
+includes:
+  - !include configs/cityflow/common.yml
+
+EPISODE_LEN: 3600
+FLOW_FILE: Environment/data/cityflow4x4/flow.json
+ROADNET_FILE: Environment/data/cityflow4x4/roadnet.json
+
