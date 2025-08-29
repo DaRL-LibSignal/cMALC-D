@@ -40,3 +40,16 @@ python main.py --config="MARL/configs/algs/mappo.yaml" --cityflow-config="config
 
 cMALC-D is accepted as a Short Research Paper for the Conference on Information and Knowledge Management (CIKM) and was also accepted to the 2025 ICML Workshop Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures (MAS). 
 
+```
+@inproceedings{colight,
+ author = {Satheesh, Anirudh and Powell, Keenan and Wei, Hua},
+ title = {cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending},
+ booktitle = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+ series = {CIKM '25},
+ year = {2025},
+ location = {Seoul, Korea}
+} 
+```
+
+
+
