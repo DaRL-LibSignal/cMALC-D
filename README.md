@@ -1,5 +1,5 @@
 # Introduction
-This repo provides source code for the CIKM 2025 paper "cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending".
+This repo provides source code for the CIKM 2025 paper "[cMALC-D: Contextual Multi-Agent LLM-Guided Curriculum Learning with Diversity-Based Context Blending](https://arxiv.org/abs/2508.20818)".
 
 **Abstract**:
 
